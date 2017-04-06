@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>author</key>
-    <string>ztf</string>
+    <string>Muldoser</string>
     <key>name</key>
-    <string>Material-Theme</string>
+    <string>Material-Mulder-Theme</string>
     <key>semanticClass</key>
-    <string>Material-Theme</string>
+    <string>Material-Mulder-Theme</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>gutterSettings</key>
@@ -21,7 +21,7 @@
       <key>selectionBackground</key>
       <string>#3297FD</string>
       <key>selectionForeground</key>
-      <string>#a09f93</string>
+      <string>#3297FD</string>
     </dict>
     <key>settings</key>
     <array>
@@ -74,7 +74,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#5C6370</string>
+          <string>#00b720</string>
           <key>fontStyle</key>
           <string>italic</string>
         </dict>
@@ -87,7 +87,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#5C6370</string>
+          <string>#00b720</string>
         </dict>
       </dict>
       <dict>
@@ -134,7 +134,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e5c07bff</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <!-- variable.other.constant.js -->
@@ -159,7 +159,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e06c75ff</string>
+          <string>#bbff0b</string>
         </dict>
       </dict>
 
@@ -171,7 +171,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#abb2bfff</string>
+          <string>#5cff5d</string>
         </dict>
       </dict>
       <dict>
@@ -182,7 +182,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#61afefff</string>
+          <string>#6dc2b8</string>
         </dict>
       </dict>
       <!-- java modifier.import -->
@@ -223,7 +223,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#56b6c2ff</string>
+          <string>#00e8ff</string>
         </dict>
       </dict>
 
@@ -355,7 +355,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e06c75ff</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <!-- js console function -->
@@ -367,7 +367,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#61afefff</string>
+          <string>#6dc2b8</string>
         </dict>
       </dict>
       <!-- js console function-->
@@ -408,7 +408,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e06c75ff</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <!-- js dom -->
@@ -508,7 +508,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#abb2bf</string>
+          <string>#00e8ff</string>
         </dict>
       </dict>
       <dict>
@@ -530,7 +530,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e06c75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -574,7 +574,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#abb2bf</string>
+          <string>#00e8ff</string>
         </dict>
       </dict>
       <dict>
@@ -585,7 +585,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#61afef</string>
+          <string>#6dc2b8</string>
         </dict>
       </dict>
       <dict>
@@ -673,7 +673,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#61afef</string>
+          <string>#6dc2b8</string>
         </dict>
       </dict>
       <dict>
@@ -684,7 +684,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#c678dd</string>
+          <string>#854cff</string>
         </dict>
       </dict>
       <dict>
@@ -695,7 +695,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#c678dd</string>
+          <string>#854cff</string>
         </dict>
       </dict>
       <dict>
@@ -783,7 +783,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#98c379</string>
+          <string>#e80011</string>
         </dict>
       </dict>
       <dict>
@@ -860,7 +860,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e06c75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -929,7 +929,7 @@
           <string>
           </string>
           <key>foreground</key>
-          <string>#e06c75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -1061,7 +1061,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E06C75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -1214,7 +1214,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E06C75</string>
+          <string>#e80011</string>
         </dict>
       </dict>
       <dict>
@@ -1258,7 +1258,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E06C75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -1269,7 +1269,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E06C75</string>
+          <string>#c2c8d7</string>
         </dict>
       </dict>
       <dict>
@@ -1426,7 +1426,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#e5c07bff</string>
+          <string>#854cff</string>
         </dict>
       </dict>
       <dict>
@@ -1440,6 +1440,111 @@
           <string>#abb2bf</string>
         </dict>
       </dict>
+
+
+      <!-- Custom TYPESCRIPT -->
+      <dict>
+        <key>name</key>
+        <string>string.quoted.single.ts, string.quoted.double.ts</string>
+        <key>scope</key>
+        <string>string.quoted.single.ts, string.quoted.double.ts</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#e80011</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>entity.name.type.class.ts, variable.other.readwrite.alias.ts, entity.name.type.ts</string>
+        <key>scope</key>
+        <string>entity.name.type.class.ts, variable.other.readwrite.alias.ts, entity.name.type.ts</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#BBFF0B</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>variable.language.this.ts</string>
+        <key>scope</key>
+        <string>variable.language.this.ts</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#854cff</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>variable.parameter.ts, support.variable.dom.ts</string>
+        <key>scope</key>
+        <string>variable.parameter.ts, support.variable.dom.ts</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#854cff</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>punctuation.definition.comment.ts</string>
+        <key>scope</key>
+        <string>punctuation.definition.comment.ts</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#00b720</string>
+        </dict>
+      </dict>
+      <!-- End Custom TYPESCRIPT -->
+      <!-- Custom HTML -->
+      <dict>
+        <key>name</key>
+        <string>entity.name.tag.block.any.html</string>
+        <key>scope</key>
+        <string>entity.name.tag.block.any.html</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FF5370</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>comment.block.html, punctuation.definition.comment.html</string>
+        <key>scope</key>
+        <string>comment.block.html, punctuation.definition.comment.html</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FFEC00</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>entity.other.attribute-name.html</string>
+        <key>scope</key>
+        <string>entity.other.attribute-name.html</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FFCB6B</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>text.html.basic</string>
+        <key>scope</key>
+        <string>text.html.basic</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#C3E887</string>
+        </dict>
+      </dict>
+      <!-- End Custom HTML -->
     </array>
     <key>uuid</key>
     <string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>

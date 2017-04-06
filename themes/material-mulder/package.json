@@ -1,6 +1,6 @@
 {
-    "name": "material-mulder",
-    "displayName": "themes\\Material-Mulder.tmTheme",
+    "name": "theme-material-mulder",
+    "displayName": "themes\\Material\\Mulder",
     "description": "Material Mulder",
     "version": "0.0.1",
     "publisher": "Muldoser",
@@ -10,13 +10,13 @@
     "categories": [
         "Themes"
     ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Material-Mulder",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Material-Theme.tmTheme"
-            }
-        ]
-    }
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Mulder",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Mulder-Theme.tmTheme"
+			}
+		]
+	}
 }
