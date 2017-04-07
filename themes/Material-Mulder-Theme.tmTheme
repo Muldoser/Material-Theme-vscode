@@ -1484,7 +1484,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#854cff</string>
+          <string>#5cff5d</string>
         </dict>
       </dict>
       <dict>
@@ -1545,6 +1545,20 @@
         </dict>
       </dict>
       <!-- End Custom HTML -->
+
+      <!-- Custom json -->
+      <dict>
+        <key>name</key>
+        <string>support.type.property-name.json</string>
+        <key>scope</key>
+        <string>support.type.property-name.json</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#00B8E8</string>
+        </dict>
+      </dict>
+      <!-- End Custom json -->
     </array>
     <key>uuid</key>
     <string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
