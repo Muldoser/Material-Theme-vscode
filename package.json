@@ -1,8 +1,8 @@
 {
     "name": "theme-material-mulder",
-    "displayName": "themes\\Material-mulder",
-    "description": "Material Mulder",
-    "version": "0.0.1",
+    "displayName": "Material Mulder",
+    "description": "Material Mulder theme, based on Material-Theme ",
+    "version": "0.0.3",
     "publisher": "Muldoser",
     "engines": {
         "vscode": "^1.10.0"

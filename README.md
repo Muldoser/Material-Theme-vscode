@@ -9,9 +9,8 @@ enjoy it! (or don't)
 
 # What's new?
 1. Different colors
-<!--
-# ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
 
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot2.png)
--->
+# Screenshots
+
+![ScreenShot](./static/typescript.png)
+![ScreenShot](./static/html.png)
