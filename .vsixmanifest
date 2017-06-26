@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="Material-theme" Version="0.0.1" Publisher="zhuangtongfa"/>
+    <Identity Language="en-US" Id="Material-Mulder-theme" Version="0.0.1" Publisher="mulder"/>
     <DisplayName>Material-theme</DisplayName>
-    <Description xml:space="preserve">Material themes for VS Code. By ZTF</Description>
+    <Description xml:space="preserve">Material themes for VS Code. By mulder</Description>
     <Tags>vscode</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
