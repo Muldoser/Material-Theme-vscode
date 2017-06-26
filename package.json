@@ -3,10 +3,15 @@
     "displayName": "Material Mulder",
     "description": "Material Mulder theme, based on Material-Theme ",
     "version": "0.0.3",
+    "repository" : {
+        "type" : "git", 
+        "url" : "https://github.com/Muldoser/Material-Theme-vscode.git"
+    },
     "publisher": "Muldoser",
     "engines": {
         "vscode": "^1.10.0"
     },
+    "icon": "icon.gif",
     "categories": [
         "Themes"
     ],

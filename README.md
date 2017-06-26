@@ -12,5 +12,5 @@ enjoy it! (or don't)
 
 # Screenshots
 
-![ScreenShot](./static/typescript.png)
-![ScreenShot](./static/html.png)
+![ScreenShot](https://raw.githubusercontent.com/Muldoser/Material-Theme-vscode/master//static/typescript.png)
+![ScreenShot](https://raw.githubusercontent.com/Muldoser/Material-Theme-vscode/master//static/html.png)
