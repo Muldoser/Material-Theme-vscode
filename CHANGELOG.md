@@ -1,58 +1,17 @@
 # changelog 
-## 2.3.4 | 2017.3.29   
-improve Java height light   
 
-## 2.3.3 
-add php call-function height light
+## 0.0.4
 
+* Changelog added
+* Logo update
 
-## 2.3.2 
-update icon
+## 0.0.3
 
-## 2.3.1 
-improve js module height light
+* Screenshots added
+* Logo added
 
-## 2.3.0
-improve README.MD
+## 0.0.2
 
-## 2.2.9
-add css/scss property value hight light 
-
-## 2.2.8
-improve js 'this' height light 
-
-## 2.2.7
-improve js variable property, js object-literal key, constant.js and math height light,remove notice
-
-## 2.2.6
-add README.MD notice
-
-## 2.2.5
-remove js operator accessor hight light
-
-## 2.2.4 
-push changelog to CHANGELOG.md
-
-## 2.2.3 
-improve css's id & class & color name height light
-
-## 2.2.2 
-improve README.MD, add changelog 
-
-## 2.2.1 
-add js module hight light, add changelog 
-
-## 2.2.0
-add js operator logical hight light 
-
-## 2.1.9 
-add js console height light 
-
-## 2.1.8 
-add java support 
-
-## 2.1.7 
-fix diff height light error 
-
-## 2.1.6 
-improve js operator
+* Fork made from original project [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
+* Project initiated in [Visual Studio Market Place](https://marketplace.visualstudio.com/items?itemName=Muldoser.theme-material-mulder)
+* Custom colors (mainly js and ts)
