@@ -1502,9 +1502,9 @@
       <!-- Custom HTML -->
       <dict>
         <key>name</key>
-        <string>entity.name.tag.block.any.html</string>
+        <string>entity.name.tag.block.any.html, entity.name.tag.html</string>
         <key>scope</key>
-        <string>entity.name.tag.block.any.html</string>
+        <string>entity.name.tag.block.any.html, entity.name.tag.html</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
