@@ -9,6 +9,10 @@ enjoy it! (or don't)
 
 # What's new?
 1. Different colors
+2. Theming options:
+    - Color scheme only
+    - Color scheme + sidebar, header, ...
+
 
 # Screenshots
 

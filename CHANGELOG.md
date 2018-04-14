@@ -2,6 +2,16 @@
 
 ## 0.0.4
 
+* JSON theming added with same color scheme as the `thTeme`, including theming for :
+    - activityBar
+    - tab
+    - sideBar
+    - statusBar
+    - editorGroupHeader
+    - titleBar
+
+## 0.0.4
+
 * Changelog added
 * Logo update
 

@@ -20,6 +20,11 @@
 			{
 				"label": "Material Mulder",
 				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Mulder-Theme.json"
+			},
+			{
+				"label": "Material Mulder - Color scheme",
+				"uiTheme": "vs-dark",
 				"path": "./themes/Material-Mulder-Theme.tmTheme"
 			}
 		]
