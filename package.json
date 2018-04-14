@@ -2,7 +2,7 @@
     "name": "theme-material-mulder",
     "displayName": "Material Mulder",
     "description": "Material Mulder theme, based on Material-Theme ",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository" : {
         "type" : "git", 
         "url" : "https://github.com/Muldoser/Material-Theme-vscode.git"
