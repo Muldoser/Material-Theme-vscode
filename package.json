@@ -2,7 +2,7 @@
     "name": "theme-material-mulder",
     "displayName": "Material Mulder",
     "description": "Material Mulder theme, based on Material-Theme ",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository" : {
         "type" : "git", 
         "url" : "https://github.com/Muldoser/Material-Theme-vscode.git"
@@ -19,6 +19,11 @@
 		"themes": [
 			{
 				"label": "Material Mulder",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Mulder-Theme.json"
+			},
+			{
+				"label": "Material Mulder - Color scheme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Material-Mulder-Theme.tmTheme"
 			}
