@@ -10,7 +10,8 @@
 		"statusBar.noFolderBackground": "#0d1011",
 		"editorGroupHeader.tabsBackground": "#0d1011",
 		"titleBar.activeBackground": "#0d1011",
-		"titleBar.inactiveBackground": "#0d1011"
+    "titleBar.inactiveBackground": "#0d1011",
+    "editor.background": "#282c34"
 	},
   "tokenColors": [
     {
