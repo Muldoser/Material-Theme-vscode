@@ -1,6 +1,9 @@
 # changelog 
 
-## 0.0.4
+## 0.0.6
+* Background color that fits the cholor scheme better.
+
+## 0.0.5
 
 * JSON theming added with same color scheme as the `thTeme`, including theming for :
     - activityBar
